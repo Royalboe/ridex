@@ -1,10 +1,6 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/ridex)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/ridex?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/ridex?style=social)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/DJAK-KODM5E?style=social)](https://youtu.be/DJAK-KODM5E)
+  [![CircleCI](https://circleci.com/gh/Royalboe/ridex.svg?style=svg)](https://circleci.com/gh/Royalboe/ridex)
 
   <br />
   <br />
