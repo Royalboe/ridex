@@ -53,7 +53,7 @@ jobs:
       # - notify_slack_success
       # - notify_slack_error
     
-  build-application-images:
+  build-application-image:
     <<: *baseImage
     steps:
       - checkout
